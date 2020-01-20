@@ -1,6 +1,7 @@
 # Enterprise-Library
 
 # Java Enterprise Project
+
 # Spring 2019 - Software Eng. Enterprise
 
 This is a semester long project done in 5 stages that was building a library like application for books.
